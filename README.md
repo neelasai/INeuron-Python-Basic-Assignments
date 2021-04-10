@@ -1,1 +1,1 @@
-# INeuron-Python-Basic-Assignments
+# INeuron-Python-Basics-Assignments
